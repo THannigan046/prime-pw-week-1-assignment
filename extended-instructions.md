@@ -1,4 +1,4 @@
-*Note*: There are not instructions in this file for every step of the assignment. 
+*Note*: There are not instructions in this file for every step of the assignment.
 
 ### Step 1:
 
@@ -29,7 +29,7 @@ Step | Instruction | Screen Shot
 
 ### Step 4.3:
 
-1. Open the *index.html* file in Chrome. 
+1. Open the *index.html* file in Chrome.
 
 **NOTE:** There are a few ways to open your assignment in Chrome:
 
@@ -48,7 +48,7 @@ Step | Instruction | Screen Shot
 
 ![screencast](./images/open-chrome-from-terminal.gif)
 
-You'll want to set [Chrome as your default browser](https://support.google.com/chrome/answer/95417) if you haven't already. 
+You'll want to set [Chrome as your default browser](https://support.google.com/chrome/answer/95417) if you haven't already.
 
 
 ### Step 5:
@@ -58,6 +58,8 @@ You'll want to set [Chrome as your default browser](https://support.google.com/c
 1. Type `git add .` and press the RETURN (or ENTER) key. This tells Git that you want to stage your file updates.
 2. Type `git commit -m "completed week 1 assignment"` and press the RETURN (or ENTER) key. This creates a snapshot of your changes (a commit) that can be referenced later.
 3. Type `git push -u origin master` to send your updates to GitHub.
+
+what happened to step 6?
 
 ### Step 7:
 
